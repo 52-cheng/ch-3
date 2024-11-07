@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\t1133\OneDrive\桌面\ch-3\ch-3-4\ch-3-4\main.c(22,9): warning C4477: 'printf' : format string '%10u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+      C:\Users\t1133\OneDrive\桌面\ch-3\ch-3-4\ch-3-4\main.c(22,9):
+      consider using '%llu' in the format string
+      C:\Users\t1133\OneDrive\桌面\ch-3\ch-3-4\ch-3-4\main.c(22,9):
+      consider using '%Iu' in the format string
+      C:\Users\t1133\OneDrive\桌面\ch-3\ch-3-4\ch-3-4\main.c(22,9):
+      consider using '%I64u' in the format string
+  
+  ch-3-4.vcxproj -> C:\Users\t1133\OneDrive\桌面\ch-3\ch-3-4\x64\Debug\ch-3-4.exe
